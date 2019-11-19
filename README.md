@@ -2,6 +2,8 @@
 
 Visualize geospatial information in MarkLogic Data Hub on an OpenLayers map.
 
+<img src="https://raw.githubusercontent.com/wooldridge/data-hub-geo/master/images/screenshot.png" alt="Map" style="width: 600px;"/>
+
 ## Requirements
 
 - Node.js v8.14.0+
