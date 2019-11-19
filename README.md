@@ -1,6 +1,6 @@
 # data-hub-geo
 
-Visualize geospatial information in MarkLogic Data Hub on an OpenLayers map.
+Visualize geospatial information in MarkLogic Data Hub on an [OpenLayers](https://openlayers.org/) map.
 
 <img src="https://raw.githubusercontent.com/wooldridge/data-hub-geo/master/images/screenshot.png" alt="Map" style="width: 600px;"/>
 
